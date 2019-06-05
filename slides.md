@@ -1,7 +1,7 @@
 ---
-author: John Doe
-title: Demo Slide1
-date: June 21, 2017
+author: Matt Rybin
+title: Sala Up Future
+date: June 6, 2019
 ---
 
 # Foo
